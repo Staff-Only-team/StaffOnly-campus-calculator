@@ -1,5 +1,5 @@
 ---
-name: 기능 Issue 본문 템플릿
+name: "\U0001F44D기능 Issue 본문 템플릿"
 about: 기능 Issue 본문 템플릿
 title: ''
 labels: ''
